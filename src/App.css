@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    padding-top:100px;
+    padding-top:50px;
 }
 .header,.body{
     display: flex;

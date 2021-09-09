@@ -5,12 +5,12 @@ const TotalsSection = () => {
     return (
         <div className="totals">
             <div className="expense-total">
-            <h2>Expenses</h2>
+            <h3>Expenses</h3>
             <p>KSH 2000</p>
 
             </div>
             <div className="balance">
-            <h2>Balance</h2>
+            <h3>Balance</h3>
             <p>KSH 3000</p>
 
             </div>

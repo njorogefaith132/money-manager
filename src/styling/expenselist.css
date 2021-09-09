@@ -2,12 +2,20 @@
     background-color: white;
     width: 300px;
     padding: 10px;
-    margin: 100px;
+    margin: 0 100px;
+    height: 280px;
+    overflow-x: scroll;
+
+}
+ .e-list h4{
+    color: rgb(20, 235, 20);
+    margin-left: 100px;
+    margin-top: 90px;
 }
 .expense{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: aqua;
+    background-color: rgb(255, 230, 0);
     margin: 10px;
 }

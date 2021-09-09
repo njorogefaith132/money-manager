@@ -2,19 +2,20 @@
     margin-right: 100px;
 }
 .expense-total,.balance{
-    display: grid;
-    grid-template-columns: repeat(2, 100px);
-    grid-column-gap:10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .expense-total p, .balance p{
     background-color: white;
     display: flex;
-    justify-content: center;
     align-items: center;
     border-radius: 5px;
+    padding: 5px 30px;
 
 }
-.expense-total h2, .balance h2{
+.expense-total h3, .balance h3{
     color: rgb(20, 235, 20);
+    margin-right: 30px;
     
 }
