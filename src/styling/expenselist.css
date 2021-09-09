@@ -1,0 +1,13 @@
+.expense-list{
+    background-color: white;
+    width: 300px;
+    padding: 10px;
+    margin: 100px;
+}
+.expense{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aqua;
+    margin: 10px;
+}

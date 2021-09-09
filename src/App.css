@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+    padding-top:100px;
+}
+.header,.body{
+    display: flex;
+    justify-content: space-between;
+}
